@@ -12,8 +12,8 @@
   </scripts>
   <repository>
     <type>git</type>
-    <url>https://git-codecommit.us-west-2.amazonaws.com/v1/repos/codeDeployDemo</url>
-  </repository>
+    <url>https://
+  </repository>https://github.com/sampath291996/nodejs-proj.git
   <keywords>node</keywords>
   <author>Sandip Das</author>
   <license>ISC</license>
